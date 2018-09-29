@@ -89,7 +89,6 @@ void addMonster() {
 	file.close();
 	int main();
 }
-
 void removeMonster() {
 	cout << "Please enter a Three digit number 001 - 026" << endl;
 	cin >> getID;
